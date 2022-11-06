@@ -1,5 +1,5 @@
 {
-	"name": "Aura Pro Theme",
+	"name": "Cactus Dark Theme",
 	"type": "dark",
 	"colors": {
 		"editor.foreground": "#bbbbbb",
@@ -51,11 +51,7 @@
 
 		"list.activeSelectionBackground": "#2c313a",
 		"focusBorder": "#6b717d88",
-		"list.hoverBackground": "#2c313a",
-
-		
-
-
+		"list.hoverBackground": "#2c313a"
 	},
 	"tokenColors": [
 		{
@@ -319,7 +315,7 @@
 			],
 			"settings": {
 				"foreground": "#82AAFF"
-			}
+			} 
 		},
 		{
 			"name": "Inserted",
