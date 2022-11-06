@@ -1,7 +1,8 @@
 {
-  "name": "Dyno Dark Theme",
-  "displayName": "Cactus Pro Theme",
-  "description": "Theme for vscode created by Kodi",
+  "name": "dyno-dark-theme",
+  "displayName": "Dyno Dark Theme",
+  "publisher": "Kodi",
+  "description": "💚 A beautiful dark theme for VsCode",
   "version": "0.0.2",
   "engines": {
     "vscode": "^1.73.0"
