@@ -16,7 +16,7 @@
       {
         "label": "Dyno Dark Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/cactus-dark-theme.json"
+        "path": "./themes/dyno-dark-theme.json"
       }
     ]
   }
