@@ -1,9 +1,11 @@
 <h2 align="center" >Welcome to Dyno Dark Theme! 💚</h2>
-<br>
-<img align="center"  src="https://github.com/kodiexp/dyno-dark-theme-vscode/blob/main/logo.png">
+<p align="center" >
+    <img  src="https://github.com/kodiexp/dyno-dark-theme-vscode/blob/main/logo.png">
+</p>
+
 <p>
-This theme is currently under development. 
-To see the different changes check the commits or the changelog file
+    <B>This theme is currently under development. 
+    To see the different changes check the commits or the changelog file</B>
 </p> 
 
 
