@@ -1,6 +1,6 @@
 <h2 align="center" >Welcome to Dyno Dark Theme! 💚</h2>
 <p align="center" >
-    <img  src="https://github.com/kodiexp/dyno-dark-theme-vscode/blob/main/logo.png">
+    <img  src="./logo.png">
 </p>
 
 <p>
