@@ -17,10 +17,8 @@
 		"activityBar.foreground": "#9da5b4",
 		"activityBar.inactiveForeground": "#6b717d88",
 		
-
         "statusBar.background": "#1e2227",
        
-
         "textLink.foreground": "#00f86798",
         "textLink.activeForeground": "#00f867",
 
@@ -36,7 +34,6 @@
 		"menu.foreground": "#9da5b4",
 		"menu.separatorBackground": "#343a450e",
 
-		
 		"tab.activeBackground": "#1e2227",
 		"tab.hoverForeground": "#9da5b4",
 		"tab.hoverBackground": "#323842d7",
@@ -45,7 +42,6 @@
 		"tab.inactiveForeground": "#6b717d88",
 		"tab.border": "#181a1f6c",
 		
-
 		"scrollbar.shadow": "#23252c",
 		"scrollbarSlider.activeBackground": "#747d9180",
 		"scrollbarSlider.background": "#4e566660",
