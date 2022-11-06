@@ -1,5 +1,5 @@
 {
-  "name": "Cactus Dark Theme",
+  "name": "Dyno Dark Theme",
   "displayName": "Cactus Pro Theme",
   "description": "Theme for vscode created by Kodi",
   "version": "0.0.2",
@@ -12,7 +12,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Cactus Dark Theme",
+        "label": "Dyno Dark Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/cactus-dark-theme.json"
       }
