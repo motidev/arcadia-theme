@@ -1,0 +1,21 @@
+{
+  "name": "Aura",
+  "displayName": "AuraTheme-VsCode",
+  "description": "Theme for vscode created by Kodi",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Aura",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Aura-color-theme.json"
+      }
+    ]
+  }
+}
