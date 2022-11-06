@@ -1,10 +1,60 @@
 {
 	"name": "Aura",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editor.foreground": "#bbbbbb",
+		"editor.background": "#1e2227",
+		"editorSuggestWidget.selectedBackground": "#2c313a",
+		"editorGroupHeader.tabsBackground": "#1e2227",
+
+		"sideBarTitle.foreground": "#bbbbbb",
+		"sideBar.background": "#1e2227",
+		"sideBar.foreground": "#9da5b4",
+        "sideBarSectionHeader.background": "#1e2227",
+		"sideBarSectionHeader.foreground": "#9da5b4",
+		
+		"activityBarBadge.background": "#395fc9",
+        "activityBar.background": "#1e2227",
+		"activityBar.foreground": "#9da5b4",
+		"activityBar.inactiveForeground": "#6b717d88",
+		
+
+        "statusBar.background": "#1e2227",
+       
+
+        "textLink.foreground": "#00f86798",
+        "textLink.activeForeground": "#00f867",
+
+        "terminal.background": "#1e2227",
+
+		"titleBar.activeBackground": "#1e2227",
+		"titleBar.inactiveBackground": "#1e2227",
+		"titleBar.activeForeground": "#9da5b4",
+		"titleBar.inactiveForeground": "#6b717d88",
+
+		"dropdown.background": "#1e2227",
+		"dropdown.border": "#1e2227",
+		"menu.foreground": "#9da5b4",
+		"menu.separatorBackground": "#343a450e",
+
+		
+		"tab.activeBackground": "#1e2227",
+		"tab.hoverForeground": "#9da5b4",
+		"tab.hoverBackground": "#323842d7",
+		"tab.inactiveBackground": "#1e2227",
+		"tab.activeForeground": "#9da5b4",
+		"tab.inactiveForeground": "#6b717d88",
+		"tab.border": "#181a1f6c",
+		
+
+		"scrollbar.shadow": "#23252c",
+		"scrollbarSlider.activeBackground": "#747d9180",
+		"scrollbarSlider.background": "#4e566660",
+		"scrollbarSlider.hoverBackground": "#5a637580",
+
+		"list.activeSelectionBackground": "#2c313a",
+		"list.hoverBackground": "#2c313a",
+
+		
 	},
 	"tokenColors": [
 		{
