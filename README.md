@@ -3,7 +3,8 @@
 </p>
 
 <h2><a href="https://github.com/kodiexp/dyno-dark-theme">Github Repo</a></h2>
-<h2>About Dyno Dark Theme</h2>
+
+<h2>Description</h2>
 <p align="left">
     💜 A beautiful dark theme for VsCode
 </p> 
@@ -14,5 +15,8 @@
 
 <h2>Thanks</h2>
 <p>
-
+    If you like this extension, you could give a star.
 </p>
+
+
+>
