@@ -1,2 +1,3 @@
 # Changelog Dyno Dark Theme
- - This theme is currently under development v --> 0.0.2
+ - Initial release v -> 0.0.1
+ - Colors label changes v -> 0.0.2
