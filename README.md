@@ -2,7 +2,7 @@
     <img  src="./public/images/banner.png">
 </p>
 
-### 📖 Description
+### 📋 Description
 
 A beautiful dark theme for VsCode.You can visit [**Github Repo**](https://github.com/kodiexp/dyno-dark-theme) 💜
 
