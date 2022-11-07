@@ -6,6 +6,10 @@
 		"editor.background": "#1e2227",
 		"editorSuggestWidget.selectedBackground": "#2c313a",
 		"editorGroupHeader.tabsBackground": "#1e2227",
+		"editor.selectionBackground":"#6b717d88",
+		"editor.findMatchBackground":"#6b717d88",
+		"editor.findMatchHighlightBackground":"#6b717d88",
+		"editor.hoverHighlightBackground":"#6b717d88",
 
 		"sideBarTitle.foreground": "#bbbbbb",
 		"sideBar.background": "#1e2227",
@@ -13,7 +17,8 @@
         "sideBarSectionHeader.background": "#1e2227",
 		"sideBarSectionHeader.foreground": "#9da5b4",
 		
-		"activityBarBadge.background": "#395fc9",
+		"activityBarBadge.background": "#8780d8",
+		"activityBarBadge.foreground": "#FFFFFF",
         "activityBar.background": "#1e2227",
 		"activityBar.foreground": "#9da5b4",
 		"activityBar.inactiveForeground": "#6b717d88",
@@ -33,6 +38,8 @@
 
 		"dropdown.background": "#1e2227",
 		"dropdown.border": "#1e2227",
+		"dropdown.foreground": "#9da5b4",
+
 		"menu.foreground": "#9da5b4",
 		"menu.separatorBackground": "#343a450e",
 
@@ -51,7 +58,27 @@
 
 		"list.activeSelectionBackground": "#2c313a",
 		"focusBorder": "#6b717d88",
-		"list.hoverBackground": "#2c313a" 
+		"list.hoverBackground": "#2c313a" ,
+
+		"button.background": "#6B717D65",
+		"button.foreground": "#9da5b4",
+		"button.separator": "#6B717D65",
+
+		"input.background": "#343a450e",
+		"input.foreground": "#9da5b4",
+
+		"badge.background": "#8780d8",
+		"badge.foreground": "#FFFFFF",
+
+		"progressBar.background": "#8780d8",
+
+		"editorBracketHighlight.foreground1": "#4d92a6",
+		"editorBracketHighlight.foreground2": "#9e784e",
+		"editorBracketHighlight.foreground3": "#65cf86",
+		"editorBracketHighlight.foreground4": "#ee7fa6",
+		"editorBracketHighlight.foreground5": "#ECD78B",
+		"editorBracketHighlight.foreground6": "#8780d8",
+		"editorBracketHighlight.unexpectedBracket.foreground": "#df574f"
 	},
 	"tokenColors": [
 		{
@@ -61,7 +88,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "bold",
 				"foreground": "#6b717dbe"
 			}
 		},
