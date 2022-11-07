@@ -85,15 +85,15 @@
 
 		"editorBracketHighlight.foreground1": "#4d92a6",
 		"editorBracketHighlight.foreground2": "#9e784e",
-		"editorBracketHighlight.foreground3": "#65cf86",
-		"editorBracketHighlight.foreground4": "#ee7fa6",
-		"editorBracketHighlight.foreground5": "#ECD78B",
+		"editorBracketHighlight.foreground3": "#a4db98",
+		"editorBracketHighlight.foreground4": "#ef99a0",
+		"editorBracketHighlight.foreground5": "#eed5a2",
 		"editorBracketHighlight.foreground6": "#8780d8",
 		"editorBracketHighlight.unexpectedBracket.foreground": "#E0616C",
 
-		"gitDecoration.modifiedResourceForeground": "#ECD78B",
+		"gitDecoration.modifiedResourceForeground": "#eed5a2",
 		"gitDecoration.deletedResourceForeground": "#E0616C",
-		"gitDecoration.stageModifiedResourceForeground": "#ee7fa6",
+		"gitDecoration.stageModifiedResourceForeground": "#ef99a0",
 		"gitDecoration.untrackedResourceForeground": "#65cf86",
 		"gitDecoration.ignoredResourceForeground": "#8780d8"
 
