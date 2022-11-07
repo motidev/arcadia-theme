@@ -13,6 +13,8 @@
 
 - This theme is currently under development. 
 
+[More info](https://github.com/kodiexp/dyno-dark-theme/blob/main/Changelog.md)
+
 <h2>Thanks</h2>
 <p>
     If you like this extension, you could give a ⭐.
