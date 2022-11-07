@@ -9,7 +9,9 @@ A beautiful dark theme for VsCode.You can visit [**Github Repo**](https://github
 &nbsp;
 
 ### 📝 Changelog
-**version 0.0.2**
+```diff 
+@@version 0.0.2@@
+```
   - This extension is currently under development. 
 
 [**More info**](https://github.com/kodiexp/dyno-dark-theme/blob/main/Changelog.md)
