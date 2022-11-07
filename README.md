@@ -1,6 +1,5 @@
-<h2 align="center" >Welcome to Dyno Dark Theme!</h2>
 <p align="center" >
-    <img  src="./logo.png">
+    <img  src="./public/images/banner.png">
 </p>
 
 <p align="center">
