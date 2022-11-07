@@ -10,6 +10,14 @@
 		"editor.findMatchBackground":"#6b717d88",
 		"editor.findMatchHighlightBackground":"#6b717d88",
 		"editor.hoverHighlightBackground":"#6b717d88",
+		"editorWidget.background": "#1e2227",
+		"editorWidget.border": "#1e2227",
+		"editorWidget.foreground": "#9da5b4",
+		"editorHoverWidget.foreground": "#9da5b4",
+		"editorHoverWidget.background": "#1e2227",
+		"editorHoverWidget.border": "#1e2227",
+		"editorCursor.background":"#8780d8",
+		"editorCursor.foreground":"#8780d8",
 
 		"sideBarTitle.foreground": "#bbbbbb",
 		"sideBar.background": "#1e2227",
@@ -81,7 +89,14 @@
 		"editorBracketHighlight.foreground4": "#ee7fa6",
 		"editorBracketHighlight.foreground5": "#ECD78B",
 		"editorBracketHighlight.foreground6": "#8780d8",
-		"editorBracketHighlight.unexpectedBracket.foreground": "#df574f"
+		"editorBracketHighlight.unexpectedBracket.foreground": "#E0616C",
+
+		"gitDecoration.modifiedResourceForeground": "#ECD78B",
+		"gitDecoration.deletedResourceForeground": "#E0616C",
+		"gitDecoration.stageModifiedResourceForeground": "#ee7fa6",
+		"gitDecoration.untrackedResourceForeground": "#65cf86",
+		"gitDecoration.ignoredResourceForeground": "#8780d8"
+
 	},
 	"tokenColors": [
 		{
