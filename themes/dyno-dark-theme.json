@@ -81,10 +81,10 @@
 		"gitDecoration.ignoredResourceForeground": "#8780d8",
 		"editorGutter.addedBackground": "#8780d8",
 		"editorGutter.deletedBackground": "#E0616C",
-		"editorGutter.modifiedBackground": "#FDFF7796",
+		"editorGutter.modifiedBackground": "#eed49f",
 		"editorOverviewRuler.addedBackground": "#8780d8",
 		"editorOverviewRuler.deletedBackground": "#E0616C",
-		"editorOverviewRuler.modifiedBackground": "#FDFF7796"
+		"editorOverviewRuler.modifiedBackground": "#eed49f"
 
 	},
 	"tokenColors": [
@@ -106,7 +106,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#fcffee"
+				"foreground": "#8bd5ca"
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#ed8796"
 			}
 		},
 		{
