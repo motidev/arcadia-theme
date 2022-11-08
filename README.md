@@ -2,12 +2,17 @@
     <img  src="./public/images/banner.png">
 </p>
 
+<p align="center">
+    <a href="https://github.com/kodiexp/dyno-dark-theme"><img src="https://vsmarketplacebadge.apphb.com/version-short/Kodi.dyno-dark-theme.svg?style=for-the-badge&colorA=1e2227&colorB=8780d8&label=VERSION" ></a>&nbsp;
+    <a href="https://github.com/kodiexp/dyno-dark-theme"><img src="https://vsmarketplacebadge.apphb.com/installs-short/Kodi.dyno-dark-theme.svg?style=for-the-badge&colorA=1e2227&colorB=8780d8&label=Installs" ></a>&nbsp;
+    <a href="https://github.com/kodiexp/dyno-dark-theme"><img src="https://vsmarketplacebadge.apphb.com/downloads-short/Kodi.dyno-dark-theme.svg?style=for-the-badge&colorA=1e2227&colorB=8780d8&label=Downloads" ></a>&nbsp;
+</p>
+
 ### 📋 Description
 
 A beautiful dark theme for VsCode.You can visit [**Github Repo**](https://github.com/kodiexp/dyno-dark-theme) 💜
 
 &nbsp;
-
 ### 📝 Changelog
 **Version 0.0.2**
   - This extension is currently under development. 
@@ -15,24 +20,20 @@ A beautiful dark theme for VsCode.You can visit [**Github Repo**](https://github
 [**More info**](https://github.com/kodiexp/dyno-dark-theme/blob/main/Changelog.md)
 
 &nbsp;
-
 ### 📷 Pictures
 
 Soon...
 
 &nbsp;
-
 ### 📥 Installation
 
 Soon...
 
 &nbsp;
-
 ### ⚙ Recommended Settings 
   ```jsonc
 
     "VsCode": {
-      
         "workbench.colorTheme": "Dyno Dark Theme",
         "editor.fontSize": "14px",
         "editor.fontFamily": "Cascadia Code PL"
@@ -40,16 +41,14 @@ Soon...
 
   ```
 
-Download the FontFamily [**Cascadia Code**](https://github.com/microsoft/cascadia-code/releases).
+Download the [**Cascadia Code Font**](https://github.com/microsoft/cascadia-code/releases).
 
 &nbsp;
-
 ### 🎨 Palette
 
 Soon...
 
 &nbsp;
-
 ### 🔖 License
 
 You can see the [**License**](https://github.com/kodiexp/dyno-dark-theme/blob/main/LICENSE)
