@@ -30,7 +30,8 @@ Soon...
 
 ### ⚙ Recommended Settings
 
-__Editor__:FontSize = 14px
+  __Editor:__ FontSize = 14px
+  __Editor:__ FontFamily = 'Cascadia Code PL'
 
 [**Cascadia Code**](https://github.com/microsoft/cascadia-code/releases)
 
