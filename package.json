@@ -1,14 +1,14 @@
 {
-  "name": "dyno-theme",
-  "displayName": "Dyno Theme",
+  "name": "arcadia-theme",
+  "displayName": "Arcadia Theme",
   "publisher": "Kodi",
-  "description": "💚 A beautiful dark theme for VsCode",
+  "description": "A beautiful dark theme for VsCode",
   "license": "MIT",
   "icon": "logo.png",
   "version": "0.0.2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kodiexp/dyno-theme"
+    "url": "https://github.com/kodiexp/arcadia-theme"
   },
   "engines": {
     "vscode": "^1.73.0"
@@ -19,7 +19,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dyno Theme",
+        "label": "Arcadia Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/dyno-dark.json"
       }

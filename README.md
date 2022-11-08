@@ -3,20 +3,20 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/kodiexp/dyno-theme"><img src="https://vsmarketplacebadge.apphb.com/version-short/Kodi.dyno-theme.svg?style=for-the-badge&colorA=1e2227&colorB=8780d8&label=VERSION" ></a>&nbsp;
-    <a href="https://github.com/kodiexp/dyno-theme"><img src="https://vsmarketplacebadge.apphb.com/installs-short/Kodi.dyno-theme.svg?style=for-the-badge&colorA=1e2227&colorB=8780d8&label=Installs" ></a>&nbsp;
-    <a href="https://github.com/kodiexp/dyno-theme"><img src="https://vsmarketplacebadge.apphb.com/downloads-short/Kodi.dyno-theme.svg?style=for-the-badge&colorA=1e2227&colorB=8780d8&label=Downloads" ></a>&nbsp;
+    <a href="https://github.com/kodiexp/arcadia-theme"><img src="https://vsmarketplacebadge.apphb.com/version-short/Kodi.arcadia-theme.svg?style=for-the-badge&colorA=1e2227&colorB=8780d8&label=VERSION" ></a>&nbsp;
+    <a href="https://github.com/kodiexp/arcadia-theme"><img src="https://vsmarketplacebadge.apphb.com/installs-short/Kodi.arcadia-theme.svg?style=for-the-badge&colorA=1e2227&colorB=8780d8&label=Installs" ></a>&nbsp;
+    <a href="https://github.com/kodiexp/arcadia-theme"><img src="https://vsmarketplacebadge.apphb.com/downloads-short/Kodi.arcadia-theme.svg?style=for-the-badge&colorA=1e2227&colorB=8780d8&label=Downloads" ></a>&nbsp;
 </p>
 
 ### 📋 Description
 
-A beautiful dark theme for VsCode.You can visit [**Github Repo**](https://github.com/kodiexp/dyno-theme) 💜
+A beautiful dark theme for VsCode.You can visit [**Github Repo**](https://github.com/kodiexp/arcadia-theme) 💜
 &nbsp;
 ### 📝 Changelog
 **Version 0.0.2**
   - This extension is currently under development. 
 
-[**More info**](https://github.com/kodiexp/dyno-theme/blob/main/Changelog.md)
+[**More info**](https://github.com/kodiexp/arcadia-theme/blob/main/Changelog.md)
 &nbsp;
 ### 📷 Pictures
 
@@ -30,7 +30,7 @@ Soon...
   ```jsonc
 
     "VsCode": {
-        "workbench.colorTheme": "Dyno Theme",
+        "workbench.colorTheme": "Arcadia Theme",
         "editor.fontSize": "14px",
         "editor.fontFamily": "Cascadia Code PL"
     }
@@ -45,7 +45,7 @@ Soon...
 &nbsp;
 ### 🔖 License
 
-You can see the [**License**](https://github.com/kodiexp/dyno-theme/blob/main/LICENSE)
+You can see the [**License**](https://github.com/kodiexp/arcadia-theme/blob/main/LICENSE)
 &nbsp;
 ### Thanks
 
