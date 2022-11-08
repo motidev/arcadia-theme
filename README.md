@@ -9,7 +9,6 @@
 </p>
 
 ### 📋 Description
-<h3 color="#8780d8"> Description</h3>
 
 A beautiful dark theme for VsCode.You can visit [**Github Repo**](https://github.com/kodiexp/dyno-theme) 💜
 &nbsp;
