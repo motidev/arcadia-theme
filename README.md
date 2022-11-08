@@ -28,15 +28,19 @@ Soon...
 
 &nbsp;
 
-### ⚙ Recommended Settings
-  ```
-  
-    __Editor:__ FontSize = 14px
-    __Editor:__ FontFamily = 'Cascadia Code PL'
+### ⚙ Recommended Settings 
+  ```jsonc
+
+    "VsCode": {
+      
+        "workbench.colorTheme": "Dyno Dark Theme",
+        "editor.fontSize": "14px",
+        "editor.fontFamily": "Cascadia Code PL"
+    }
 
   ```
 
-[**Cascadia Code**](https://github.com/microsoft/cascadia-code/releases)
+Download the FontFamily [**Cascadia Code**](https://github.com/microsoft/cascadia-code/releases).
 
 &nbsp;
 
