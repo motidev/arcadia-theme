@@ -1,6 +1,6 @@
 {
-  "name": "dyno-dark-theme",
-  "displayName": "Dyno Dark Theme",
+  "name": "dyno-theme",
+  "displayName": "Dyno Theme",
   "publisher": "Kodi",
   "description": "💚 A beautiful dark theme for VsCode",
   "license": "MIT",
@@ -8,7 +8,7 @@
   "version": "0.0.2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kodiexp/dyno-dark-theme"
+    "url": "https://github.com/kodiexp/dyno-theme"
   },
   "engines": {
     "vscode": "^1.73.0"
@@ -19,9 +19,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dyno Dark Theme",
+        "label": "Dyno Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/dyno-dark-theme.json"
+        "path": "./themes/dyno-dark.json"
       }
     ]
   }
