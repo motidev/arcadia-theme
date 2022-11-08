@@ -30,7 +30,9 @@ Soon...
 
 ### ⚙ Recommended Settings
 
-Soon...
+__Editor__:FontSize = 14px
+
+[**Cascadia Code**](https://github.com/microsoft/cascadia-code/releases)
 
 &nbsp;
 
