@@ -10,6 +10,9 @@
     "type": "git",
     "url": "https://github.com/kodiexp/arcadia-theme"
   },
+  "bugs": {
+    "url": "https://github.com/kodiexp/arcadia-theme/issues"
+  },
   "engines": {
     "vscode": "^1.73.0"
   },
