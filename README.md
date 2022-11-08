@@ -40,8 +40,10 @@ Soon...
 Download the [**Cascadia Code Font**](https://github.com/microsoft/cascadia-code/releases).
 &nbsp;
 ### 🎨 Palette
+Colors of the extension
   <img  src="./public/images/arcadiapalette.png">
 &nbsp;
+
 ### 🔖 License
 
 You can see the [**License**](https://github.com/kodiexp/arcadia-theme/blob/main/LICENSE)
