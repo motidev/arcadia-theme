@@ -11,24 +11,20 @@
 ### 📋 Description
 
 A beautiful dark theme for VsCode.You can visit [**Github Repo**](https://github.com/kodiexp/dyno-theme) 💜
-
 &nbsp;
 ### 📝 Changelog
 **Version 0.0.2**
   - This extension is currently under development. 
 
 [**More info**](https://github.com/kodiexp/dyno-theme/blob/main/Changelog.md)
-
 &nbsp;
 ### 📷 Pictures
 
 Soon...
-
 &nbsp;
 ### 📥 Installation
 
 Soon...
-
 &nbsp;
 ### ⚙ Recommended Settings 
   ```jsonc
@@ -42,22 +38,18 @@ Soon...
   ```
 
 Download the [**Cascadia Code Font**](https://github.com/microsoft/cascadia-code/releases).
-
 &nbsp;
 ### 🎨 Palette
 
 Soon...
-
 &nbsp;
 ### 🔖 License
 
 You can see the [**License**](https://github.com/kodiexp/dyno-theme/blob/main/LICENSE)
-
 &nbsp;
 ### Thanks
 
     If you like this extension, you could give a ⭐.
-    
 &nbsp;
 
 
