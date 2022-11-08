@@ -40,8 +40,7 @@ Soon...
 Download the [**Cascadia Code Font**](https://github.com/microsoft/cascadia-code/releases).
 &nbsp;
 ### 🎨 Palette
-
-Soon...
+  <img  src="./public/images/arcadiapalette.png">
 &nbsp;
 ### 🔖 License
 
