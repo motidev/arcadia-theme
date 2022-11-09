@@ -34,7 +34,7 @@ You can report bugs [**here**](https://github.com/kodiexp/arcadia-theme/issues)
 
   **3.**  Click Install
 
-  **4.**  Open the Command Palette with Ctrl+Shift+P or ⇧⌘P
+  **4.**  Open the Command Palette with Ctrl+Shift+P 
   
   **5.**  Select Preferences: Color Theme and choose a Arcadia Theme.
 &nbsp;
