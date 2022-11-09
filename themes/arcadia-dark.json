@@ -191,15 +191,6 @@
 			}
 		},
 		{
-			"name": "Import module JS",
-			"scope": [
-			  "keyword.operator.module"
-			],
-			"settings": {
-			  "foreground": "#8780d8"
-			}
-		},
-		{
 			"name": "Block Level Variables",
 			"scope": [
 				"meta.block variable.other"
