@@ -62,7 +62,7 @@ Download the [**Cascadia Code Font**](https://github.com/microsoft/cascadia-code
 
   <img  src="./public/images/arcadiapalette.png">
 
-  See [here](https://github.com/kodiexp/arcadia-theme/blob/main/public/images/arcadiapalette.png)
+  See [**here**](https://github.com/kodiexp/arcadia-theme/blob/main/public/images/arcadiapalette.png)
 &nbsp;
 ### 🔖 License
 
