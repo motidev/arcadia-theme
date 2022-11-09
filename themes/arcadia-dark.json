@@ -67,11 +67,12 @@
 		"badge.background": "#8780d8",
 		"badge.foreground": "#FFFFFF",
 		"progressBar.background": "#8780d8",
-		"editorBracketHighlight.foreground1": "#4d92a6",
+		
+		"editorBracketHighlight.foreground1": "#B6BD7E",
 		"editorBracketHighlight.foreground2": "#9e784e",
-		"editorBracketHighlight.foreground3": "#a4db98",
+		"editorBracketHighlight.foreground3": "#4d92a6",
 		"editorBracketHighlight.foreground4": "#ef99a0",
-		"editorBracketHighlight.foreground5": "#eed49f",
+		"editorBracketHighlight.foreground5": "#777777",
 		"editorBracketHighlight.foreground6": "#8780d8",
 		"editorBracketHighlight.unexpectedBracket.foreground": "#E0616C",
 		"gitDecoration.modifiedResourceForeground": "#eed49f",
@@ -269,7 +270,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#999EA0"
 			}
 		},
 		{
@@ -323,6 +324,16 @@
 			}
 		},
 		{
+			"name": "Attribute IDs",
+			"scope": [
+				"entity.other.attribute-name.id "
+
+			],
+			"settings": {
+			  "foreground": "#c84d4d"
+			}
+		  },
+		{
 			"name": "HTML Attributes",
 			"scope": [
 				"text.html.basic entity.other.attribute-name.html",
@@ -339,7 +350,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#f05a6f"
+				"foreground": "#c84d4d"
 			}
 		},
 		{

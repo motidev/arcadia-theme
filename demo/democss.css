@@ -2,17 +2,17 @@
     color: red;
     color: #008000;
     color: hsl(240, 100%, 50%);
-  }
+}
   
-  #id {
+#id {
     font-family: 'Roboto', sans-serif;
     font-size: 2em;
-  }
+}
   
-  div {
+div {
     display: flex;
     margin: 1em;
-  }
+}
   
   .pseudo:after,
   .child:nth-child(1),
