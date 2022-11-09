@@ -1,5 +1,7 @@
 const hello = 'I am demo file';
 
+import js from "next";
+
 doesNotExist.nope(`demo test`);
 
 class widget extends React.Component { }

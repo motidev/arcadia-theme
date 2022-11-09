@@ -107,7 +107,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#00C2A5"
+				"foreground": ""
 			}
 		},
 		{
@@ -132,12 +132,11 @@
 		{
 			"name": "Keyword, Storage",
 			"scope": [
-				"keyword",
 				"storage.type",
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": ""
 			}
 		},
 		{
@@ -181,7 +180,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": ""
 			}
 		},
 		{
