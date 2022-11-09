@@ -11,7 +11,7 @@ const de = function () { };
 const demo = 100;
 
 function demo() {
-
+    widget();
 }
 
 const demo = () => { };

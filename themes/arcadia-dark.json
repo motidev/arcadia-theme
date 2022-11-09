@@ -107,7 +107,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": ""
+				"foreground": "#B6BD7E"
 			}
 		},
 		{
@@ -136,7 +136,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": ""
+				"foreground": "#8780d8"
 			}
 		},
 		{
@@ -180,7 +180,14 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": ""
+				"foreground": "#f07178"
+			}
+		},
+		{
+			"name": "js/ts console",
+			"scope": "support.type.object.console",
+			"settings": {
+				"foreground": "#9deda0"
 			}
 		},
 		{
