@@ -24,7 +24,7 @@
         "sideBarSectionHeader.background": "#1e2227",
 		"sideBarSectionHeader.foreground": "#9da5b4",
 		"activityBarBadge.background": "#8780d8",
-		"activityBarBadge.foreground": "#FFFFFF",
+		"activityBarBadge.foreground": "#080808",
         "activityBar.background": "#1e2227",
 		"activityBar.foreground": "#9da5b4",
 		"activityBar.inactiveForeground": "#6b717d88",
@@ -65,7 +65,7 @@
 		"input.background": "#343a450e",
 		"input.foreground": "#9da5b4",
 		"badge.background": "#8780d8",
-		"badge.foreground": "#FFFFFF",
+		"badge.foreground": "#080808",
 		"progressBar.background": "#8780d8",
 		
 		"editorBracketHighlight.foreground1": "#B6BD7E",

@@ -16,6 +16,8 @@ You can report bugs [**here**](https://github.com/kodiexp/arcadia-theme/issues)
 ### 📝 Changelog
 **Version 0.0.2**
   - This extension is currently under development. 
+**version 0.0.3**
+  - Trial version.
 
 [**More info**](https://github.com/kodiexp/arcadia-theme/blob/main/Changelog.md)
 &nbsp;
@@ -24,8 +26,11 @@ You can report bugs [**here**](https://github.com/kodiexp/arcadia-theme/issues)
 Soon...
 &nbsp;
 ### 📥 Installation
-
-Soon...
+  1. Open the Extensions sidebar in VS Code or enter [**here**]()
+  2. Search for Arcadia Theme
+  3. Click Install
+  4. Open the Command Palette with Ctrl+Shift+P or ⇧⌘P
+  5. Select Preferences: Color Theme and choose a Arcadia Theme.
 &nbsp;
 ### ⚙ Recommended Settings 
   ```jsonc
