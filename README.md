@@ -9,13 +9,14 @@
 </p>
 
 ### 📋 Description
-A beautiful dark theme for VsCode.You can visit [**Github Repo**](https://github.com/kodiexp/arcadia-theme) 💜
+A beautiful dark theme for VsCode. You can visit [**Github Repo**](https://github.com/kodiexp/arcadia-theme) 💜
 
 You can report bugs [**here**](https://github.com/kodiexp/arcadia-theme/issues)
 &nbsp;
 ### 📝 Changelog
 **Version 0.0.2**
   - This extension is currently under development. 
+
 **version 0.0.3**
   - Trial version.
 
