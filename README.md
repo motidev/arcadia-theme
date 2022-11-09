@@ -34,11 +34,11 @@ You can report bugs [**here**](https://github.com/kodiexp/arcadia-theme/issues)
 
     2. Search for Arcadia Theme
 
-    3.  Click Install
+    3. Click Install
 
-    4.  Open the Command Palette with Ctrl+Shift+P 
+    4. Open the Command Palette with Ctrl+Shift+P 
     
-    5.  Select Preferences: Color Theme and choose a Arcadia Theme.
+    5. Select Preferences: Color Theme and choose a Arcadia Theme.
 
    ```
 
@@ -61,8 +61,8 @@ Download the [**Cascadia Code Font**](https://github.com/microsoft/cascadia-code
 **Colors of the extension**
 
   <img  src="./public/images/arcadiapalette.png">
+  
 &nbsp;
-
 ### 🔖 License
 
 You can see the [**License**](https://github.com/kodiexp/arcadia-theme/blob/main/LICENSE)
