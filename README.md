@@ -19,6 +19,10 @@ You can report bugs [**here**](https://github.com/kodiexp/arcadia-theme/issues)
 **Version 0.0.3**
   - Trial version.
 
+**Version 0.0.4**
+  - Update colors from **.md** files.
+
+
 [**More info**](https://github.com/kodiexp/arcadia-theme/blob/main/Changelog.md)
 &nbsp;
 ### 📷 Pictures
