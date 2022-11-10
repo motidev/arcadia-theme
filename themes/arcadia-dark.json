@@ -615,7 +615,7 @@
 				"markup.underline"
 			],
 			"settings": {
-				"fontStyle": "underline",
+				"fontStyle": "bold",
 				"foreground": "#BE6950"
 			}
 		},
@@ -634,7 +634,7 @@
 				"markup.quote"
 			],
 			"settings": {
-				"fontStyle": "italic"
+				"fontStyle": "bold"
 			}
 		},
 		{
