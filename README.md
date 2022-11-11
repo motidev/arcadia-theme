@@ -23,8 +23,8 @@ You can report bugs [**here**](https://github.com/kodiexp/arcadia-theme/issues)
   - Update colors from **.md** files.
   
 **Version 0.0.5**
-  - Update Markdown colors
-  - 
+  - Update MARKDOWN colors
+  - Update JS colors
 
 [**More info**](https://github.com/kodiexp/arcadia-theme/blob/main/Changelog.md)
 &nbsp;

@@ -9,7 +9,7 @@
   - Update colors from **.md** files.
 
 **Version 0.0.5**
-  - update Markdown colors
-  - 
+  - Update MARKDOWN colors
+  - Update JS colors
 
 [**More info**](https://github.com/kodiexp/arcadia-theme/blob/main/Changelog.md)

@@ -142,7 +142,6 @@
 		{
 			"name": "Operator, Misc",
 			"scope": [
-				"keyword.control",
 				"constant.other.color",
 				"punctuation",
 				"meta.tag",
@@ -181,6 +180,13 @@
 			],
 			"settings": {
 				"foreground": "#f07178"
+			}
+		},
+		{
+			"name": "Keyword Control",
+			"scope": "keyword.control",
+			"settings": {
+			  "foreground": "#d19a66"
 			}
 		},
 		{
