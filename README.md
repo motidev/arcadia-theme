@@ -31,8 +31,6 @@ You can report bugs [**here**](https://github.com/kodiexp/arcadia-theme/issues)
 [**More info**](https://github.com/kodiexp/arcadia-theme/blob/main/Changelog.md)
 &nbsp;
 ### 📷 Pictures
-
-<p>
   <img align="center" src="./public/images/picture1.png">
   <br>
   <img align="center" src="./public/images/picture2.png">
@@ -42,8 +40,7 @@ You can report bugs [**here**](https://github.com/kodiexp/arcadia-theme/issues)
   <img align="center" src="./public/images/picture4.png">
    <br>
   <img align="center" src="./public/images/picture5.png">
-</p>
-
+  
 &nbsp;
 ### 📥 Installation  
   ```jsonc
