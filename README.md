@@ -25,6 +25,7 @@ You can report bugs [**here**](https://github.com/kodiexp/arcadia-theme/issues)
 **Version 0.0.5**
   - Update MARKDOWN colors
   - Update JS colors
+  - Update 🎨 Palette
 
 [**More info**](https://github.com/kodiexp/arcadia-theme/blob/main/Changelog.md)
 &nbsp;
