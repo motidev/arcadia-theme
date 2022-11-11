@@ -34,9 +34,13 @@ You can report bugs [**here**](https://github.com/kodiexp/arcadia-theme/issues)
 
 <p>
   <img align="center" src="./public/images/picture1.png">
+  <br>
   <img align="center" src="./public/images/picture2.png">
+   <br>
   <img align="center" src="./public/images/picture3.png">
+   <br>
   <img align="center" src="./public/images/picture4.png">
+   <br>
   <img align="center" src="./public/images/picture5.png">
 </p>
 
