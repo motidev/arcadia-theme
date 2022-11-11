@@ -8,4 +8,8 @@
 **Version 0.0.4**
   - Update colors from **.md** files.
 
+**Version 0.0.5**
+  - update Markdown colors
+  - 
+
 [**More info**](https://github.com/kodiexp/arcadia-theme/blob/main/Changelog.md)
