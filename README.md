@@ -23,15 +23,22 @@ You can report bugs [**here**](https://github.com/kodiexp/arcadia-theme/issues)
   - Update colors from **.md** files.
   
 **Version 0.0.5**
-  - Update MARKDOWN colors
-  - Update JS colors
-  - Update 🎨 Palette
+  - Update MARKDOWN colors.
+  - Update JS colors.
+  - Update 🎨 Palette.
+  - Update pictures.
 
 [**More info**](https://github.com/kodiexp/arcadia-theme/blob/main/Changelog.md)
 &nbsp;
 ### 📷 Pictures
+<p>
+  <img align="center" src="./public/images/picture1.png">
+  <img align="center" src="./public/images/picture2.png">
+  <img align="center" src="./public/images/picture3.png">
+  <img align="center" src="./public/images/picture4.png">
+  <img align="center" src="./public/images/picture5.png">
+</p>
 
-<img align="center" src="./public/images/picture1.png">
 
 &nbsp;
 ### 📥 Installation  

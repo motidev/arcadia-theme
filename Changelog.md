@@ -9,8 +9,9 @@
   - Update colors from **.md** files.
 
 **Version 0.0.5**
-  - Update MARKDOWN colors
-  - Update JS colors
-  - Update 🎨 Palette
+  - Update MARKDOWN colors.
+  - Update JS colors.
+  - Update 🎨 Palette.
+  - Update pictures.
 
 [**More info**](https://github.com/kodiexp/arcadia-theme/blob/main/Changelog.md)
