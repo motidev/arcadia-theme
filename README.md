@@ -10,7 +10,7 @@
 ### 📋 Description
 A beautiful dark theme for VsCode. You can visit [**Github Repo**](https://github.com/kodiexp/arcadia-theme) 💜
 
-You can report bugs [**here**](https://github.com/kodiexp/arcadia-theme/issues)
+You can report bugs [**here**](https://github.com/kodiexp/arcadia-theme/issues) or Support [**here**](https://discord.gg/MkTvbu9gva)
 &nbsp;
 ### 📝 Changelog
 **Version 0.0.2**
