@@ -10,7 +10,11 @@ public class demojava {
        Scanner demo = new Scanner(System.in);
        num = demo.nextInt();
 
+       for ( int i = 0; i < 10 ; i++ ){
+        
+       }
 
+        // esto es un comentario
        if ( x ) {
             if (( num == 1) && (hola == "demo")) {
                 System.out.println("Esto es una clase de prueba" + num);
