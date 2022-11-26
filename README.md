@@ -7,6 +7,8 @@
     <a href="https://github.com/kodiexp/arcadia-theme"><img src="https://vsmarketplacebadge.apphb.com/downloads-short/Kodi.arcadia-theme.svg?style=for-the-badge&colorA=1e2227&colorB=8780d8&label=Downloads" ></a>&nbsp;
 </p>
 
+### Sponsors
+
 <a align="left" href="https://discord.gg/MkTvbu9gva"><img width='20%' src="./public/images/bannerflexi.png" ></a>
 
 ### 📋 Description
