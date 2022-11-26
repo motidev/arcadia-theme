@@ -771,7 +771,56 @@
 			"settings": {
 			  "foreground": "#8780d8"
 			}
-		}	
+		},
+		{
+			"name": "lua source",
+			"scope": "source.lua",
+			"settings": {
+			  "foreground": "#8780d8"
+			}
+		},
+		{
+			"name": "variable.language.self.lua",
+			"scope": "variable.language.self.lua",
+			"settings": {
+				"foreground": "#6CDE98C9"
+			}
+		},
+		{
+			"name": "keyword.operator.lua",
+			"scope": "keyword.operator.lua",
+			"settings": {
+				"foreground": "#9da5b4"
+			}
+    	},
+    	{	
+			"name": "keyword.control.lua",
+			"scope": "keyword.control.lua",
+			"settings": {
+				"foreground": "#CC9343D0"
+			}
+		},
+		{
+			"name": "meta.function.lua",
+			"scope": "meta.function.lua",
+			"settings": {
+				"foreground": "#9da5b4"
+			}
+		},
+		{
+			"name": "variable.parameter.function.lua",
+			"scope": "variable.parameter.function.lua",
+			"settings": {
+				"foreground": "#82b5fb"
+			}
+		},
+		{
+			"name": "variable.other.lua",
+			"scope": "variable.other.lua",
+			"settings": {
+				"foreground": "#B6BD7E"
+			}
+		}
 	]
 }
 

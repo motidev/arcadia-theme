@@ -19,4 +19,7 @@
 **Version 0.0.8 | 26/11/2022**
   - Add **java** support
 
+**Version 0.0.9 | 26/11/2022**
+  - Add **lua** support
+
 [**More info**](https://github.com/kodiexp/arcadia-theme/blob/main/Changelog.md)
