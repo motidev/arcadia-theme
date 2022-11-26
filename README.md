@@ -8,14 +8,11 @@
 </p>
 
 ### 📋 Description
+<a align="left" href="https://discord.gg/MkTvbu9gva"><img width='20%' src="./public/images/bannerflexi.png" ></a>
+
 A beautiful dark theme for VsCode. You can visit [**Github Repo**](https://github.com/kodiexp/arcadia-theme) 💜
 
 You can report bugs [**here**](https://github.com/kodiexp/arcadia-theme/issues) or Support [**here**](https://discord.gg/MkTvbu9gva)
-
-Extension powered by &nbsp;
-
-<a align="left" href="https://discord.gg/MkTvbu9gva"><img width='20%' src="./public/images/bannerflexi.png" ></a>
-
 &nbsp;
 ### 📝 Changelog
 **Version 0.0.2**
