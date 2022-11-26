@@ -79,7 +79,7 @@
 		"gitDecoration.deletedResourceForeground": "#E0616C",
 		"gitDecoration.stageModifiedResourceForeground": "#ef99a0",
 		"gitDecoration.untrackedResourceForeground": "#65cf86",
-		"gitDecoration.ignoredResourceForeground": "#8780d8",
+		"gitDecoration.ignoredResourceForeground": "#6b717d88",
 		"editorGutter.addedBackground": "#8780d8",
 		"editorGutter.deletedBackground": "#E0616C",
 		"editorGutter.modifiedBackground": "#eed49f",
@@ -757,6 +757,21 @@
 			"settings": {
 				"foreground": "#9da5b4"
 			}
-		}
+		},
+		{
+			"name": "java source",
+			"scope": "source.java",
+			"settings": {
+			  "foreground": "#9da5b4"
+			}
+		},
+		{
+			"name": "java modifier.import",
+			"scope": "storage.modifier.import.java,storage.type.java,storage.type.generic.java",
+			"settings": {
+			  "foreground": "#8780d8"
+			}
+		}	
 	]
 }
+

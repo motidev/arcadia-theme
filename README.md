@@ -30,6 +30,9 @@ You can report bugs [**here**](https://github.com/kodiexp/arcadia-theme/issues) 
   - Update 🎨 Palette.
   - Update pictures.
 
+**Version 0.0.8**
+  - Add **java** support
+
 [**More info**](https://github.com/kodiexp/arcadia-theme/blob/main/Changelog.md)
 &nbsp;
 ### 📷 Pictures
