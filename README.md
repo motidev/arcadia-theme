@@ -12,6 +12,9 @@ A beautiful dark theme for VsCode. You can visit [**Github Repo**](https://githu
 
 You can report bugs [**here**](https://github.com/kodiexp/arcadia-theme/issues) or Support [**here**](https://discord.gg/MkTvbu9gva)
 &nbsp;
+### Powered by
+  <a href="https://discord.gg/MkTvbu9gva"><img src="./public/images/bannerflexi.png" ></a>&nbsp;
+&nbsp;
 ### 📝 Changelog
 **Version 0.0.2**
   - This extension is currently under development. 
