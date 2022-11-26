@@ -11,6 +11,7 @@
 A beautiful dark theme for VsCode. You can visit [**Github Repo**](https://github.com/kodiexp/arcadia-theme) 💜
 
 You can report bugs [**here**](https://github.com/kodiexp/arcadia-theme/issues) or Support [**here**](https://discord.gg/MkTvbu9gva)
+
 Extension powered by &nbsp;
 <a align="left" href="https://discord.gg/MkTvbu9gva"><img width='20%' src="./public/images/bannerflexi.png" ></a>
 
@@ -92,10 +93,9 @@ Download the [**Cascadia Code Font**](https://github.com/microsoft/cascadia-code
 You can see the [**License**](https://github.com/kodiexp/arcadia-theme/blob/main/LICENSE)
 &nbsp;
 ### Thanks
-
     If you like this extension, you could give a ⭐.
 &nbsp;
-
+<p align="center"><b>© 2022 Flexi Studio</b></p>
 
 
 
