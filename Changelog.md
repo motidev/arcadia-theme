@@ -16,7 +16,7 @@
   - Update 🎨 Palette.
   - Update pictures.
 
-**Version 0.0.8**
+**Version 0.0.8 | 26/11/2022**
   - Add **java** support
 
 [**More info**](https://github.com/kodiexp/arcadia-theme/blob/main/Changelog.md)
