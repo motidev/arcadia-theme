@@ -1,4 +1,3 @@
-
 ---@class Demo
 Demo = Core.class()
 
