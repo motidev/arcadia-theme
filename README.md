@@ -40,6 +40,9 @@ You can report bugs [**here**](https://github.com/kodiexp/arcadia-theme/issues) 
 **Version 0.0.9 | 26/11/2022**
   - Add **lua** support
 
+**Version 1.0.1 | 29/11/2022**
+  - 
+
 [**More info**](https://github.com/kodiexp/arcadia-theme/blob/main/Changelog.md)
 &nbsp;
 ### 📷 Pictures
