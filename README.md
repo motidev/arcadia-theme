@@ -7,10 +7,6 @@
     <a href="https://github.com/kodiexp/arcadia-theme"><img src="https://vsmarketplacebadge.apphb.com/downloads-short/Kodi.arcadia-theme.svg?style=for-the-badge&colorA=1e2227&colorB=8780d8&label=Downloads" ></a>&nbsp;
 </p>
 
-<p align="center">
-  <a href="https://discord.gg/MkTvbu9gva"><img   width='20%' src="./public/images/bannerflexi.png" ></a>
-</p>
-
 ### 📋 Description
 A beautiful dark theme for VsCode. You can visit [**Github Repo**](https://github.com/kodiexp/arcadia-theme) 💜
 
@@ -103,5 +99,8 @@ You can see the [**License**](https://github.com/kodiexp/arcadia-theme/blob/main
 &nbsp;
 <p align="center"><b>© 2022 Flexi Studio. All rights reserved</b></p>
 
+<p align="center">
+  <a href="https://discord.gg/MkTvbu9gva"><img   width='20%' src="./public/images/bannerflexi.png" ></a>
+</p>
 
 
