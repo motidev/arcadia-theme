@@ -24,5 +24,6 @@
 
 **Version 1.0.1 | 29/11/2022**
   - Update readme.
+  - Add Preview (web).
 
 [**More info**](https://github.com/kodiexp/arcadia-theme/blob/main/Changelog.md)

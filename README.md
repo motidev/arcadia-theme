@@ -10,6 +10,8 @@
 ### 📋 Description
 A beautiful dark theme for VsCode. You can visit [**Github Repo**](https://github.com/kodiexp/arcadia-theme) 💜
 
+Preview in web [**here**](https://vscode.dev/theme/Kodi.arcadia-theme)
+
 You can report bugs [**here**](https://github.com/kodiexp/arcadia-theme/issues) or Support [**here**](https://discord.gg/MkTvbu9gva)
 &nbsp;
 ### 📝 Changelog
@@ -38,6 +40,7 @@ You can report bugs [**here**](https://github.com/kodiexp/arcadia-theme/issues) 
 
 **Version 1.0.1 | 29/11/2022**
   - Update readme.
+  - Add Preview (web).
 
 [**More info**](https://github.com/kodiexp/arcadia-theme/blob/main/Changelog.md)
 &nbsp;
