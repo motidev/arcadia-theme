@@ -25,5 +25,7 @@
 **Version 1.0.1 | 29/11/2022**
   - Update readme.
   - Add Preview (web).
+  - Add **python** support
+  - Left the beta **Version**
 
 [**More info**](https://github.com/kodiexp/arcadia-theme/blob/main/Changelog.md)

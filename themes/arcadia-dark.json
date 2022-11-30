@@ -820,6 +820,47 @@
 			"settings": {
 				"foreground": "#B6BD7E"
 			}
+		},
+		{
+			"name": "python source",
+			"scope": "source.python",
+			"settings": {
+			  "foreground": "#9da5b4"
+			}
+		},
+		{
+			"name": "Python Function Parameter and Arguments",
+			"scope": [
+			  "variable.parameter.function.python",
+			  "meta.function-call.arguments.python"
+			],
+			"settings": {
+			  "foreground": "#CC91CED0"
+			}
+		},
+		{
+			"name": "Python Function Call",
+			"scope": [
+			  "meta.function-call.python",
+			  "meta.function-call.generic.python"
+			],
+			"settings": {
+			  "foreground": "#9FD1D1"
+			}
+		},
+		{
+			"name": "Punctuations in Python",
+			"scope": "punctuation.python",
+			"settings": {
+			  "foreground": "#9da5b4"
+			}
+		},
+		{
+			"name": "Python import control keyword",
+			"scope": "keyword.control",
+			"settings": {
+			  "foreground": "#8780d8"
+			}
 		}
 	]
 }
