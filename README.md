@@ -9,14 +9,19 @@
     <a href="https://github.com/kodiexp/arcadia-theme"><img src="https://vsmarketplacebadge.apphb.com/downloads-short/Kodi.arcadia-theme.svg?style=for-the-badge&colorA=1e2227&colorB=8780d8&label=Downloads" ></a>&nbsp;
 </p>
 
-### 📋 Description
+<p align="center">
+  <img  src="./public/images/des.png">
+</p>  
 A beautiful dark theme for VsCode. You can visit [**Github Repo**](https://github.com/kodiexp/arcadia-theme) 💜
 
 Preview in web [**here**](https://vscode.dev/theme/Kodi.arcadia-theme)
 
 You can report bugs [**here**](https://github.com/kodiexp/arcadia-theme/issues) or Support [**here**](https://discord.gg/MkTvbu9gva)
 &nbsp;
-### 📝 Changelog
+
+<p align="center">
+  <img  src="./public/images/change.png">
+</p>
 **Version 0.0.2**
   - This extension is currently under development. 
 
@@ -51,7 +56,10 @@ You can report bugs [**here**](https://github.com/kodiexp/arcadia-theme/issues) 
 
 [**More info**](https://github.com/kodiexp/arcadia-theme/blob/main/Changelog.md)
 &nbsp;
-### 📷 Pictures
+
+<p align="center">
+<img  src="./public/images/pic.png">
+</p>
   <img align="center" src="./public/images/picture1.png">
   <br>
   <img align="center" src="./public/images/picture2.png">
