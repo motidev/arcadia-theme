@@ -29,6 +29,11 @@
         "label": "Arcadia Theme Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/arcadia-dark.json"
+      },
+      {
+        "label": "Arcadia Theme Ray",
+        "uiTheme": "vs-dark",
+        "path": "./themes/arcadia-ray.json"
       }
     ]
   }

@@ -36,5 +36,6 @@
 
 **Version 1.2.4 | 04/12/2022**
   - Change color debugToolBar
+  - Add Arcadia Ray
 
 [**More info**](https://github.com/kodiexp/arcadia-theme/blob/main/Changelog.md)
