@@ -85,8 +85,25 @@
 		"editorGutter.modifiedBackground": "#eed49f",
 		"editorOverviewRuler.addedBackground": "#8780d8",
 		"editorOverviewRuler.deletedBackground": "#E0616C",
-		"editorOverviewRuler.modifiedBackground": "#eed49f"
-
+		"editorOverviewRuler.modifiedBackground": "#eed49f",
+		"terminal.ansiBlack": "#6b717d88",
+		"terminal.ansiBlue": "#4DADB9",
+		"terminal.ansiBrightBlack": "#6b717d88",
+		"terminal.ansiBrightBlue": "#4DADB9",
+		"terminal.ansiBrightCyan": "#4DADB9",
+		"terminal.ansiBrightGreen": "#5D9B5F",
+		"terminal.ansiBrightMagenta": "#8780d8",
+		"terminal.ansiBrightRed": "#E06C75",
+		"terminal.ansiBrightWhite": "#e6e6e6",
+		"terminal.ansiBrightYellow": "#CC9343D0",
+		"terminal.ansiCyan": "#4DADB9",
+		"terminal.ansiGreen": "#5D9B5F",
+		"terminal.ansiMagenta": "#8780d8",
+		"terminal.ansiRed": "#E06C75",
+		"terminal.ansiWhite": "#d7dae0",
+		"terminal.ansiYellow": "#CC9343D0",
+		"terminal.foreground": "#9da5b4",
+		"terminal.selectionBackground": "#6b717d88"
 	},
 	"tokenColors": [
 		{
