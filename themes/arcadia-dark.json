@@ -67,7 +67,6 @@
 		"badge.background": "#8780d8",
 		"badge.foreground": "#080808",
 		"progressBar.background": "#8780d8",
-		
 		"editorBracketHighlight.foreground1": "#B6BD7E",
 		"editorBracketHighlight.foreground2": "#9e784e",
 		"editorBracketHighlight.foreground3": "#4d92a6",
@@ -103,7 +102,8 @@
 		"terminal.ansiWhite": "#d7dae0",
 		"terminal.ansiYellow": "#CC9343D0",
 		"terminal.foreground": "#9da5b4",
-		"terminal.selectionBackground": "#6b717d88"
+		"terminal.selectionBackground": "#6b717d88",
+		"debugToolBar.background": "#1e2227"
 	},
 	"tokenColors": [
 		{
