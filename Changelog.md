@@ -28,4 +28,7 @@
   - Add **python** support
   - Left the beta **Version**
 
+**Version 1.1.2 | 03/12/2022**
+  - Update [banner](public/images/banner1.png)
+
 [**More info**](https://github.com/kodiexp/arcadia-theme/blob/main/Changelog.md)
