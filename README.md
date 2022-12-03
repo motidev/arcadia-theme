@@ -51,7 +51,11 @@ You can report bugs [**here**](https://github.com/kodiexp/arcadia-theme/issues) 
 
 [**More info**](https://github.com/kodiexp/arcadia-theme/blob/main/Changelog.md)
 &nbsp;
-### 📷 Pictures
+
+<p align="center">
+  <img  src="./public/images/pic.png">
+</p>
+
   <img align="center" src="./public/images/picture1.png">
   <br>
   <img align="center" src="./public/images/picture2.png">
