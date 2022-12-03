@@ -59,6 +59,7 @@
 		"list.inactiveSelectionIconForeground": "#9da5b4",
 		"list.activeSelectionForeground": "#9da5b4",
 		"focusBorder": "#2c313a",
+		"editor.lineHighlightBackground": "#2c313a",
 		"list.hoverBackground": "#2c313a" ,
 		"button.background": "#2c313a",
 		"button.foreground": "#9da5b4",
