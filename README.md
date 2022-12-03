@@ -1,5 +1,7 @@
-<img  src="./public/images/banner.png">
 
+<p align="center">
+<img  src="./public/images/banner1.png">
+</p>
 
 <p align="center">
     <a href="https://github.com/kodiexp/arcadia-theme"><img src="https://vsmarketplacebadge.apphb.com/version-short/Kodi.arcadia-theme.svg?style=for-the-badge&colorA=1e2227&colorB=8780d8&label=VERSION" ></a>&nbsp;
