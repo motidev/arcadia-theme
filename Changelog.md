@@ -34,4 +34,7 @@
 **Version 1.1.4 | 03/12/2022**
   - Update terminal color
 
+**Version 1.2.4 | 04/12/2022**
+  - Add light theme
+
 [**More info**](https://github.com/kodiexp/arcadia-theme/blob/main/Changelog.md)

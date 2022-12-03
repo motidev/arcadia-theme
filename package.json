@@ -5,7 +5,7 @@
   "description": "A beautiful dark theme for VsCode powered by Flexi Studio",
   "license": "MIT",
   "icon": "logo.png",
-  "version": "1.1.4",
+  "version": "1.2.4",
   "repository": {
     "type": "git",
     "url": "https://github.com/kodiexp/arcadia-theme"
@@ -26,9 +26,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Arcadia Theme",
+        "label": "Arcadia Theme Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/arcadia-dark.json"
+      },
+      {
+        "label": "Arcadia Theme light",
+        "uiTheme": "vs-dark",
+        "path": "./themes/arcadia-light.json"
       }
     ]
   }
