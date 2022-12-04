@@ -56,10 +56,14 @@ You can report bugs [**here**](https://github.com/kodiexp/arcadia-theme/issues) 
   - Change color debugToolBar
   - Add Arcadia Ray
   - Change color in arcadia dark(list , button , focusborder)
+  - Update readme(image)
 
 [**More info**](https://github.com/kodiexp/arcadia-theme/blob/main/Changelog.md)
 &nbsp;
-### 📷 Pictures
+
+<p align="center">
+  <img  src="./public/images/dark.png">
+</p>
   <img align="center" src="./public/images/picture1.png">
   <br>
   <img align="center" src="./public/images/picture2.png">
@@ -69,7 +73,17 @@ You can report bugs [**here**](https://github.com/kodiexp/arcadia-theme/issues) 
   <img align="center" src="./public/images/picture4.png">
    <br>
   <img align="center" src="./public/images/picture5.png">
-  
+
+&nbsp;
+
+<p align="center">
+  <img  src="./public/images/ray.png">
+</p>
+<img align="center" src="./public/images/ray1.png">
+  <br>
+<img align="center" src="./public/images/ray2.png">
+  <br>
+
 &nbsp;
 ### 📥 Installation  
   ```jsonc

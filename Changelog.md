@@ -38,5 +38,6 @@
   - Change color debugToolBar
   - Add Arcadia Ray
   - Change color in arcadia dark(list , button , focusborder)
+  - Update readme(image)
 
 [**More info**](https://github.com/kodiexp/arcadia-theme/blob/main/Changelog.md)
