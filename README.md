@@ -122,10 +122,10 @@ You can see the [**License**](https://github.com/kodiexp/arcadia-theme/blob/main
 ### 🤟 Thanks
     If you like this extension, you could give a ⭐.
 &nbsp;
-<p align="center"><b>© 2022 Flexi Studio. All rights reserved</b></p>
+<p align="center"><b>© 2022 Kodiexp. All rights reserved</b></p>
 
 <p align="center">
-  <a href="https://discord.gg/MkTvbu9gva"><img   width='20%' src="./public/images/bannerflexi.png" ></a>
+  <a href="https://discord.gg/MkTvbu9gva"><img   width='20%' src="./public/images/marcaagua.png" ></a>
 </p>
 
 
