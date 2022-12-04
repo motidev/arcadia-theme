@@ -43,4 +43,7 @@
 **Version 1.2.5 | 04/12/2022**
   - Change images
 
+**Version 1.2.6 | 04/12/2022**
+  - Change logo
+
 [**More info**](https://github.com/kodiexp/arcadia-theme/blob/main/Changelog.md)
