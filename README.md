@@ -58,6 +58,9 @@ You can report bugs [**here**](https://github.com/kodiexp/arcadia-theme/issues) 
   - Change color in arcadia dark(list , button , focusborder)
   - Update readme(image)
 
+**Version 1.2.5 | 04/12/2022**
+  - Change images
+
 [**More info**](https://github.com/kodiexp/arcadia-theme/blob/main/Changelog.md)
 &nbsp;
 
