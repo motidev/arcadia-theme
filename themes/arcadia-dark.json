@@ -581,6 +581,17 @@
 			}
 		},
 		{
+			"name": "C++/C#",
+			"scope": [
+			  "entity.name.label.cs",
+			  "entity.name.scope-resolution.function.call",
+			  "entity.name.scope-resolution.function.definition"
+			],
+			"settings": {
+			  "foreground": "#c84d4d"
+			}
+		},
+		{
 			"name": "Markdown - Plain",
 			"scope": [
 				"text.html.markdown",
