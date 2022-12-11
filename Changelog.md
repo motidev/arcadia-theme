@@ -46,4 +46,6 @@
 **Version 1.2.6 | 04/12/2022**
   - Change logo
 
-[**More info**](https://github.com/kodiexp/arcadia-theme/blob/main/Changelog.md)
+**Version 1.2.7 | 11/12/2022**
+  - Change name
+
