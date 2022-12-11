@@ -1,11 +1,11 @@
 {
   "name": "arcadia-theme",
-  "displayName": "Arcadia Theme",
+  "displayName": "Arcadia Dark Theme",
   "publisher": "Kodi",
   "description": "A beautiful dark theme for VsCode powered by Flexi Studio",
   "license": "MIT",
   "icon": "logo.png",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "repository": {
     "type": "git",
     "url": "https://github.com/kodiexp/arcadia-theme"
