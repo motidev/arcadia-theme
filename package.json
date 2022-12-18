@@ -2,16 +2,16 @@
   "name": "arcadia-theme",
   "displayName": "Arcadia Theme",
   "publisher": "Kodi",
-  "description": "A beautiful dark theme for VsCode powered by Kodi",
+  "description": "A beautiful dark theme for VsCode powered by Moti",
   "license": "MIT",
   "icon": "logo.png",
   "version": "1.2.8",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kodiexp/arcadia-theme"
+    "url": "https://github.com/motidev/arcadia-theme"
   },
   "bugs": {
-    "url": "https://github.com/kodiexp/arcadia-theme/issues"
+    "url": "https://github.com/motidev/arcadia-theme/issues"
   },
   "engines": {
     "vscode": "^1.73.0"
