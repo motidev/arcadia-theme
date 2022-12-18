@@ -3,12 +3,6 @@
 <img  src="./public/images/banner1.png">
 </p>
 
-<p align="center">
-    <a href="https://github.com/motidev/arcadia-theme"><img src="https://vsmarketplacebadge.apphb.com/version-short/Kodi.arcadia-theme.svg?style=for-the-badge&colorA=1e2227&colorB=8780d8&label=VERSION" ></a>&nbsp;
-    <a href="https://github.com/motidev/arcadia-theme"><img src="https://vsmarketplacebadge.apphb.com/installs-short/Kodi.arcadia-theme.svg?style=for-the-badge&colorA=1e2227&colorB=8780d8&label=Installs" ></a>&nbsp;
-    <a href="https://github.com/motidev/arcadia-theme"><img src="https://vsmarketplacebadge.apphb.com/downloads-short/Kodi.arcadia-theme.svg?style=for-the-badge&colorA=1e2227&colorB=8780d8&label=Downloads" ></a>&nbsp;
-</p>
-
 ### 📋 Description
 A beautiful dark theme for VsCode. You can visit [**Github Repo**](https://github.com/motidev/arcadia-theme) 💜
 
