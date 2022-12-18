@@ -5,7 +5,7 @@
   "description": "A beautiful dark theme for VsCode powered by Moti",
   "license": "MIT",
   "icon": "logo.png",
-  "version": "1.2.8.1",
+  "version": "1.2.9",
   "repository": {
     "type": "git",
     "url": "https://github.com/motidev/arcadia-theme"
