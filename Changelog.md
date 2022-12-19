@@ -53,3 +53,6 @@
   - Update Readme.md
   - Update Changelog.md
   - Add **C#** support.
+
+**Version 1.3.1 | 19/12/2022**
+  - Add **php** support.

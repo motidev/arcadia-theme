@@ -631,6 +631,16 @@
 			}
 		},
 		{
+			"name": "punctuation.section.embedded.begin.php",
+			"scope": [
+			  "punctuation.section.embedded.begin.php",
+			  "punctuation.section.embedded.end.php"
+			],
+			"settings": {
+			  "foreground": "#CC9343D0"
+			}
+		  },
+		{
 			"name": "Markup - Italic",
 			"scope": [
 				"markup.italic"
