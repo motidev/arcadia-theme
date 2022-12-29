@@ -42,7 +42,7 @@
 		"dropdown.foreground": "#9da5b4",
 		"menu.foreground": "#9da5b4",
 		"menu.separatorBackground": "#343a450e",
-		"tab.activeBackground": "#1a1b27",
+		"tab.activeBackground": "#212231",
 		"tab.hoverForeground": "#9da5b4",
 		"tab.hoverBackground": "#212231",
 		"tab.inactiveBackground": "#1a1b27",

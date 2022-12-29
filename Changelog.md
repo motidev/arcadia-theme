@@ -56,3 +56,6 @@
 
 **Version 1.3.1 | 19/12/2022**
   - Add **php** support.
+
+**Version 1.3.2 | 19/12/2022**
+  - Change active tab color .
