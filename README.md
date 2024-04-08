@@ -8,7 +8,7 @@ A beautiful dark theme for VsCode. You can visit [**Github Repo**](https://githu
 
 Preview in web [**here**](https://vscode.dev/theme/Kodi.arcadia-theme)
 
-You can report bugs [**here**](https://github.com/motidev/arcadia-theme/issues) or Support [**here**](https://discord.gg/MkTvbu9gva)
+You can report bugs [**here**](https://github.com/motidev/arcadia-theme/issues)
 &nbsp;
 ### 📝 Changelog
 **Version 1.0.1 | 29/11/2022**
