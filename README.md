@@ -99,7 +99,7 @@ You can see the [**License**](https://github.com/motidev/arcadia-theme/blob/main
 ### 🤟 Thanks
     If you like this extension, you could give a ⭐.
 &nbsp;
-<p align="center"><b>© 2022 Motidev. All rights reserved</b></p>
+<p align="center"><b>© 2024 Motidev. All rights reserved</b></p>
 
 
 
