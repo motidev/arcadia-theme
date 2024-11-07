@@ -42,8 +42,6 @@ You can report bugs [**here**](https://github.com/motidev/arcadia-theme/issues)
   <img  src="./public/images/dark.png">
 </p>
   <img align="center" src="./public/images/picture1.png">
-  <br>
-  <img align="center" src="./public/images/picture3.png">
 
 &nbsp;
 
@@ -51,8 +49,6 @@ You can report bugs [**here**](https://github.com/motidev/arcadia-theme/issues)
   <img  src="./public/images/ray.png">
 </p>
 <img align="center" src="./public/images/ray1.png">
-  <br>
-<img align="center" src="./public/images/ray2.png">
 
 &nbsp;
 ### 📥 Installation  
